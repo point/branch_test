@@ -6,6 +6,7 @@ a = 1
 #after block
 
 # This is comment
+# This is another comment in master
 
 dyn = a+4+2
 dyn += 5.2 + c * (b + 1)
